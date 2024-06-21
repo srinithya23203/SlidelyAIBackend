@@ -22,13 +22,13 @@ Make sure you have the following installed on your system:
 
    ```bash
    git clone https://github.com/srinithya23203/SlidelyAIBackend.git
-2.cd SlidelyAIBackend
-3.Install dependencies:
-  npm install
-4.Compile TypeScript files:
-  npx tsc
-5.Start the server:
-  node dist/server.js
+2. cd SlidelyAIBackend
+3. Install dependencies:
+   npm install
+4. Compile TypeScript files:
+   npx tsc
+5. Start the server:
+   node dist/server.js
 
 
 The server will run on http://localhost:3000.

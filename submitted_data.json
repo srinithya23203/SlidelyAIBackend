@@ -1,0 +1,16 @@
+[
+  {
+    "name": "abc",
+    "email": "abc@gmail.com",
+    "phone": "1234",
+    "githubLink": "www.github.com/s",
+    "stopwatchTime": "00:00:10"
+  },
+  {
+    "name": "John",
+    "email": "john@gmail.com",
+    "phone": "24356",
+    "githubLink": "www.github.com/jhn",
+    "stopwatchTime": "00:00:36"
+  }
+]
